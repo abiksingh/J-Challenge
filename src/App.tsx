@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import ChartPage from './components/ChartPage';
+import ChartPage from './pages/ChartPage';
 
 const App = () => {
   return (

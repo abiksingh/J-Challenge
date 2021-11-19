@@ -15,7 +15,7 @@ const Header = () => {
           }}
         >
           <Typography variant="h6" component="div">
-            {`Bitcoin Price details App`}
+            {`Applike Frontend Test`}
           </Typography>
         </Toolbar>
       </AppBar>
